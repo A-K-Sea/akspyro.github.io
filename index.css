@@ -2,14 +2,14 @@
   border-radius: 50%;
 }
 
-.header {
+.intro-banner {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.heading {
+.banner-avatar {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
 }
