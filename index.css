@@ -32,3 +32,23 @@ a:hover {
 .navbar {
   background-color: rgba(204, 219, 220, .95);
 }
+
+.section-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+.section-btn {
+  border: none;
+  border-radius: 5%;
+  height: 8rem;
+  width: 10rem;
+  background-color: rgba(204, 219, 220, 1);
+}
+
+.section-btn a {
+  text-decoration: none;
+  color: #425461;
+
+}
